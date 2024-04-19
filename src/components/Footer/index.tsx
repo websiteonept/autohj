@@ -37,7 +37,7 @@ function PageHeader() {
         <div className="block_container">
         <FooterDiv>
                <div className="centro">
-                <h2>Tem alguma dúvida?</h2>
+                <h2>Tens alguma dúvida?</h2>
                 <h3><FiPhone size={22} />963 828 722</h3>
                 <h3><FiPhone size={22} />212 251 514</h3>
                 
