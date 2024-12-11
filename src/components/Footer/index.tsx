@@ -57,7 +57,7 @@ function PageHeader() {
                <div className="centro">
                 <p style={{textAlign:'center'}}>&copy; {anoCopy} Copyright - {process.env.NEXT_PUBLIC_SITE_NAME} <br/> Rua 25 de Abril, 40c - 2620-041 Odivelas</p>
                 
-                <a href="https://www.websiteone.pt" target="_blank"><img width="100px" src={WebsiteoneLogo}/></a>
+                <a href="https://www.websiteone.pt" target="_blank"><img width="100px" src=/></a>
             </div> 
           </FooterDiv>
 
