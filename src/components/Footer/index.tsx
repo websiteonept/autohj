@@ -39,7 +39,7 @@ function PageHeader() {
                <div className="centro">
                 <h2>Tens alguma dúvida?</h2>
                 <h3><FiPhone size={22} />963 828 722</h3>
-                <h3><FiPhone size={22} />212 251 514</h3>
+                <h3><FiPhone size={22} />925 128 555</h3>
                 
                 {process.env.NEXT_PUBLIC_SITE_NAME == "Cardip" ? <h3><FiPhone size={22} />926 846 453</h3>: ""}  
 
@@ -55,7 +55,7 @@ function PageHeader() {
         <div className="block_container">
         <FooterDiv>
                <div className="centro">
-                <p style={{textAlign:'center'}}>&copy; {anoCopy} Copyright - {process.env.NEXT_PUBLIC_SITE_NAME} <br/> VOLANTE REFRESCANTE UNIPESSOAL LDA  Rua 25 de Abril, 40B - 2620-041 Odivelas</p>
+                <p style={{textAlign:'center'}}>&copy; {anoCopy} Copyright - {process.env.NEXT_PUBLIC_SITE_NAME} <br/> R. 25 de Abril 40A, 2620-041 Odivelas</p>
                 
                 <a href="https://www.websiteone.pt" target="_blank"><img width="100px" src={WebsiteoneLogo}/></a>
             </div> 
