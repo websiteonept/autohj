@@ -39,7 +39,7 @@ function PageHeader() {
                <div className="centro">
                 <h2>Tens alguma dúvida?</h2>
                 <h3><FiPhone size={22} />963 828 722</h3>
-                <h3><FiPhone size={22} />212 251 514</h3>
+                <h3><FiPhone size={22} />925 128 555</h3>
                 
                 {process.env.NEXT_PUBLIC_SITE_NAME == "Cardip" ? <h3><FiPhone size={22} />926 846 453</h3>: ""}  
 
