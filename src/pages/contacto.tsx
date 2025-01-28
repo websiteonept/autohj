@@ -86,7 +86,7 @@ export default function Veiculo({ veiculo }: VeiculoProps) {
                 <div className="ContactButtons">
                      <span>925 128 555</span><a className="PhoneButton" href="tel:+351212251514"><FiPhone size={22} /></a> 
                   </div> 
-                    {process.env.NEXT_PUBLIC_SITE_NAME == "Cardip" ? <> <div className="ContactButtons"><span>926 846 453</span><a className="PhoneButton" href="tel:+351926846453"><FiPhone size={22} /></a><a className="WhatsappButton" target="_blank"  href="https://wa.me/351926846453"><SiWhatsapp size={22} /></a></div></> : ""} 
+                    {process.env.NEXT_PUBLIC_SITE_NAME == "Cardip" ? <> <div className="ContactButtons"><span>925 128 555</span><a className="PhoneButton" href="tel:+351926846453"><FiPhone size={22} /></a><a className="WhatsappButton" target="_blank"  href="https://wa.me/351926846453"><SiWhatsapp size={22} /></a></div></> : ""} 
                     
                 </div>
 
