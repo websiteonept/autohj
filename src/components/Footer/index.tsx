@@ -55,8 +55,9 @@ function PageHeader() {
         <div className="block_container">
         <FooterDiv>
                <div className="centro">
-                <p style={{textAlign:'center'}}>&copy; {anoCopy} Copyright - {process.env.NEXT_PUBLIC_SITE_NAME} <br/> Rua 25 de Abril, 40c - 2620-041 Odivelas</p>
-                
+                <p style={{textAlign:'center'}}>&copy; {anoCopy} Copyright - {process.env.NEXT_PUBLIC_SITE_NAME} <br/> R. 25 de Abril 40A, 2620-041 Odivelas</p>
+       
+               
                 <a href= target="_blank"><img width="100px" src=/></a>
             </div> 
           </FooterDiv>
